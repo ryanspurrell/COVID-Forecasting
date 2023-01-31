@@ -5,7 +5,7 @@ Run the code using:
 
 `python3 src/main.py data/time_series_covid19_confirmed_global.csv data/time_series_covid19_deaths_global.csv data/time_series_covid19_recovered_global.csv`
 
-Currently, this code preprocesses the global data from John Hopkins.
+This code (src/main.py) is currently only used for testing and visualizing the John Hopkins COVID data.
 
 # Citations
 TODO: Add citations, format correctly
