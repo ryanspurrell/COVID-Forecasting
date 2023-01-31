@@ -9,4 +9,5 @@ Currently, this code preprocesses the global data from John Hopkins.
 
 # Citations
 TODO: Add citations, format correctly
-https://linkinghub.elsevier.com/retrieve/pii/S1473309920301201
+
+https://linkinghub.elsevier.com/retrieve/pii/S1473309920301201 (John Hopkins COVID Data)
